@@ -305,3 +305,24 @@ https://gist.github.com/cloverstd/9fd590f683c80cdf6255#file-main-py-L30
 _____________________________________________________________
 
 
+https://github.com/rq/django-rq
+
+This seems to be really interesting as it is now
+
+______________________________________________________________
+
+
+http://codegist.net/code/periodic-task-decorator-celery/
+
+You could take this for the greater good of the project
+
+The more code that i find thats already done then we can piece it all together as such 
+
+______________________________________________________________
+
+
+
+
+______________________________________________________________
+
+
